@@ -1,0 +1,6 @@
+C:\Users\lolll\RiderProjects\inventarioPlus\BlibliotecaClasesNetFramework\bin\Debug\BlibliotecaClasesNetFramework.dll
+C:\Users\lolll\RiderProjects\inventarioPlus\BlibliotecaClasesNetFramework\bin\Debug\BlibliotecaClasesNetFramework.pdb
+C:\Users\lolll\RiderProjects\inventarioPlus\BlibliotecaClasesNetFramework\obj\Debug\BlibliotecaClasesNetFramework.csproj.AssemblyReference.cache
+C:\Users\lolll\RiderProjects\inventarioPlus\BlibliotecaClasesNetFramework\obj\Debug\BlibliotecaClasesNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\lolll\RiderProjects\inventarioPlus\BlibliotecaClasesNetFramework\obj\Debug\BlibliotecaClasesNetFramework.dll
+C:\Users\lolll\RiderProjects\inventarioPlus\BlibliotecaClasesNetFramework\obj\Debug\BlibliotecaClasesNetFramework.pdb
