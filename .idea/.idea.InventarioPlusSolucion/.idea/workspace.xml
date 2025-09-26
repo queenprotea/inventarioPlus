@@ -10,188 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c1e135e-15c3-4b4a-94a7-d714801485a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.InventarioPlusSolucion/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.InventarioPlusSolucion/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.InventarioPlusSolucion/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.InventarioPlusSolucion/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.InventarioPlusSolucion/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.InventarioPlusSolucion/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlibliotecaClasesNetFramework/BlibliotecaClasesNetFramework.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlibliotecaClasesNetFramework/obj/Debug/BlibliotecaClasesNetFramework.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/App.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/ClienteInventarioPlus.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/MainWindow.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/MainWindow.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/Properties/Resources.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/Properties/Resources.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/App.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/App.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/ClienteInventarioPlu.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/ClienteInventarioPlu_MarkupCompile.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/ClienteInventarioPlu_MarkupCompile.lref" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/ClienteInventarioPlus.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/ClienteInventarioPlus_MarkupCompile.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/ClienteInventarioPlus_MarkupCompile.lref" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/MainWindow.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/MainWindow.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/WpfApplication1.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/WpfApplication1_MarkupCompile.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/obj/Debug/WpfApplication1_MarkupCompile.lref" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteInventarioPlus/packages.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InventarioPlusSolucion.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InventarioPlusSolucion.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/App.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/MainWindow.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/MainWindow.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/Properties/Resources.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/Properties/Resources.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/ServidorInventarioPlus.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/obj/Debug/App.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/obj/Debug/App.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/obj/Debug/MainWindow.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/obj/Debug/MainWindow.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/obj/Debug/ServidorInventarioPlus.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/obj/Debug/ServidorInventarioPlus_MarkupCompile.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/obj/Debug/ServidorInventarioPlus_MarkupCompile.lref" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServidorInventarioPlus/packages.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/EntityFramework.6.5.1.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/build/EntityFramework.DefaultItems.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/build/EntityFramework.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/build/EntityFramework.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/build/Microsoft.Data.Entity.Build.Tasks.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/build/net6.0/EntityFramework.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/build/net6.0/EntityFramework.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/buildTransitive/EntityFramework.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/buildTransitive/EntityFramework.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/buildTransitive/net6.0/EntityFramework.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/buildTransitive/net6.0/EntityFramework.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/content/net40/App.config.install.xdt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/content/net40/App.config.transform" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/content/net40/Web.config.install.xdt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/content/net40/Web.config.transform" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/lib/net40/EntityFramework.SqlServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/lib/net40/EntityFramework.SqlServer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/lib/net40/EntityFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/lib/net40/EntityFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/lib/net45/EntityFramework.SqlServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/lib/net45/EntityFramework.SqlServer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/lib/net45/EntityFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/lib/net45/EntityFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/lib/netstandard2.1/EntityFramework.SqlServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/lib/netstandard2.1/EntityFramework.SqlServer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/lib/netstandard2.1/EntityFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/lib/netstandard2.1/EntityFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/EntityFramework6.PS2.psd1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/EntityFramework6.PS2.psm1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/EntityFramework6.psd1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/EntityFramework6.psm1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/about_EntityFramework6.help.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/init.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/install.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net40/any/ef6.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net40/any/ef6.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net40/win-arm64/ef6.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net40/win-arm64/ef6.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net40/win-x86/ef6.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net40/win-x86/ef6.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net45/any/ef6.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net45/any/ef6.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net45/win-arm64/ef6.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net45/win-arm64/ef6.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net45/win-x86/ef6.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net45/win-x86/ef6.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net6.0/any/ef6.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net6.0/any/ef6.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.5.1/tools/net6.0/any/ef6.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/Extended.Wpf.Toolkit.5.0.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/Xceed_Logo_Retina-400x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/Xceed.Wpf.AvalonDock.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/Xceed.Wpf.Toolkit.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/cs-CZ/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/de/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/es/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/fr/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/hu/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/it/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/ja-JP/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/nl-BE/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/pt-BR/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/ro/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/ru/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/sv/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net40/zh-Hans/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/Xceed.Wpf.AvalonDock.Themes.Aero.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/Xceed.Wpf.AvalonDock.Themes.Metro.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/Xceed.Wpf.AvalonDock.Themes.VS2010.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/Xceed.Wpf.AvalonDock.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/Xceed.Wpf.Toolkit.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/cs-CZ/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/de/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/es/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/fr/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/hu/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/it/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/ja-JP/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/pt-BR/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/ro/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/ru/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/sv/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/lib/net5.0/zh-Hans/Xceed.Wpf.AvalonDock.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Extended.Wpf.Toolkit.5.0.0/tools/install.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/WPFLocalizeExtension.3.10.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/WPFLocalizeExtension.3.10.0/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/WPFLocalizeExtension.3.10.0/WPFLocalizeExtension.3.10.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/WPFLocalizeExtension.3.10.0/lib/net40/WPFLocalizeExtension.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/WPFLocalizeExtension.3.10.0/lib/net40/WPFLocalizeExtension.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/WPFLocalizeExtension.3.10.0/lib/net40/WPFLocalizeExtension.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/WPFLocalizeExtension.3.10.0/lib/net452/WPFLocalizeExtension.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/WPFLocalizeExtension.3.10.0/lib/net452/WPFLocalizeExtension.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/WPFLocalizeExtension.3.10.0/lib/net452/WPFLocalizeExtension.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/WPFLocalizeExtension.3.10.0/lib/netcoreapp3.1/WPFLocalizeExtension.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/WPFLocalizeExtension.3.10.0/lib/netcoreapp3.1/WPFLocalizeExtension.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/WPFLocalizeExtension.3.10.0/lib/netcoreapp3.1/WPFLocalizeExtension.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/XAMLMarkupExtensions.2.1.3.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net40/XAMLMarkupExtensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net40/XAMLMarkupExtensions.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net40/XAMLMarkupExtensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net452/XAMLMarkupExtensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net452/XAMLMarkupExtensions.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net452/XAMLMarkupExtensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net462/XAMLMarkupExtensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net462/XAMLMarkupExtensions.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net462/XAMLMarkupExtensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net472/XAMLMarkupExtensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net472/XAMLMarkupExtensions.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net472/XAMLMarkupExtensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net48/XAMLMarkupExtensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net48/XAMLMarkupExtensions.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/net48/XAMLMarkupExtensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/netcoreapp3.1/XAMLMarkupExtensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/netcoreapp3.1/XAMLMarkupExtensions.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/XAMLMarkupExtensions.2.1.3/lib/netcoreapp3.1/XAMLMarkupExtensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.InventarioPlusSolucion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.InventarioPlusSolucion/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,12 +26,12 @@
     &quot;assignee&quot;: &quot;queenprotea&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/queenprotea/inventarioPlus.git&quot;,
-    &quot;accountId&quot;: &quot;03a9c7b4-6ade-498b-9a2b-e2d2777ed67a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/queenprotea/inventarioPlus.git",
+    "accountId": "30ad5fe8-4872-4fd5-930d-118c1bb3ceac"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Temp/c48cfb7e-b6d1-40b9-9392-bd8231fd0bc1_JuegoAhorcadoEntregaFinalEq04.zip.bc1/JuegoAhorcadoEntregaFinalEq04/code/LibreríadeClasesServicios/BibliotecaClasesNetFramework/BibliotecaClasesNetFramework/DTO/JugadorDTO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ClienteInventarioPlus/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
@@ -223,6 +42,9 @@
   &quot;isMigrated&quot;: true
 }</component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -237,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "dev-dt-features",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
