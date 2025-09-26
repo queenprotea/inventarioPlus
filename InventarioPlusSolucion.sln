@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteInventarioPlus", "ClienteInventarioPlus\ClienteInventarioPlus.csproj", "{7BE15154-1202-4681-A0CC-F9E4F68BE745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorInventarioPlus", "ServidorInventarioPlus\ServidorInventarioPlus.csproj", "{4C610246-2FFF-453C-B084-D221349918C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlibliotecaClasesNetFramework", "BlibliotecaClasesNetFramework\BlibliotecaClasesNetFramework.csproj", "{FC88D4E1-B496-4B2C-A690-B16C0D760A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE15154-1202-4681-A0CC-F9E4F68BE745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE15154-1202-4681-A0CC-F9E4F68BE745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE15154-1202-4681-A0CC-F9E4F68BE745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE15154-1202-4681-A0CC-F9E4F68BE745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C610246-2FFF-453C-B084-D221349918C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C610246-2FFF-453C-B084-D221349918C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C610246-2FFF-453C-B084-D221349918C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C610246-2FFF-453C-B084-D221349918C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC88D4E1-B496-4B2C-A690-B16C0D760A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC88D4E1-B496-4B2C-A690-B16C0D760A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC88D4E1-B496-4B2C-A690-B16C0D760A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC88D4E1-B496-4B2C-A690-B16C0D760A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
